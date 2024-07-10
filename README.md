@@ -1,4 +1,4 @@
-# Typing Test Game js
+# Typing Test Game JS
 This project is a simple speed typing game that challenges users to type as many words as possible within a limited time. The game has three difficulty levels: Easy, Medium, and Hard.
 
 $\color{red}{\textsf{This project is a clone from my previous GitHub repository.}} $<a href="https://github.com/PharadolBrown/PortfolioJavascript/tree/main/SpeedTypingGame" traget="_blank">  this repository</a>
